@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0rem;
+}
+body {
+    background-image: url('fireworks-4021214_1920.jpg');
+    background-position: 50 30;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.year {
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size: 7rem;
+    margin-top: 2rem;
+    opacity: 0.7;
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin: 4rem;
+    font-size: 6rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.time {
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.time div {
+    display: inline-block;
+    padding: 2rem
+}
